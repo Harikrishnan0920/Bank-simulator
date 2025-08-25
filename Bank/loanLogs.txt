@@ -1,0 +1,6 @@
+Loan logs
+ 
+{"customerId":"cus_64fc627b-5c8f-42b3-8a63-f63ed67a6d43","status":"approved","loanId":"loan_ef23f272-3cf1-4fa0-af6b-0863f6486eee","emi":4167,"ratio":0.28334}
+{"customerId":"cus_d394f213-d3b6-4983-bf4d-f4723eba5eb2","status":"rejected","reason":"high ratio","demographics":{"age":27,"city":"Jaipur"}}
+{"customerId":"cus_2d0e0f16-ed9c-4f7f-9cef-94c69f5d607a","status":"approved","loanId":"loan_6ae0d489-3194-4419-a60e-7c4e0b0116cb","emi":417,"ratio":0.08085074626865672}
+{"customerId":"cus_980a65aa-cc44-4bd9-90fd-8c31fc4bc58d","status":"approved","loanId":"loan_fe3d1f36-7e78-4b25-8cfe-3d5c3a1001d6","emi":417,"ratio":0.1302125}
